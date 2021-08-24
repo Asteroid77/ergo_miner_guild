@@ -1,0 +1,1 @@
+# ergo_miner_guild
